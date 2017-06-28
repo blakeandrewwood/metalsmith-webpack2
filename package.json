@@ -1,0 +1,28 @@
+{
+  "name": "metalsmith-webpack2",
+  "version": "1.0.0",
+  "description": "Metalsmith plugin for Webpack 2",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakeandrewwood/metalsmith-webpack2.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "webpack",
+    "javascript",
+    "plugin"
+  ],
+  "author": "Blake A. Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeandrewwood/metalsmith-webpack2/issues"
+  },
+  "homepage": "https://github.com/blakeandrewwood/metalsmith-webpack2#readme"
+}

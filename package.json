@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-webpack2",
   "version": "1.0.0",
-  "description": "Metalsmith plugin for Webpack 2",
+  "description": "A webpack 2 plugin for Metalsmith",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"

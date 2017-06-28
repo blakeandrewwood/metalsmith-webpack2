@@ -1,6 +1,6 @@
 # metalsmith-webpack2
 
-A [webpack][webpack] plugin for [Metalsmith][metalsmith].
+A [webpack 2][webpack] plugin for [Metalsmith][metalsmith].
 
 ## Installation
 

@@ -1,5 +1,7 @@
 # metalsmith-webpack2
 
+A [webpack][webpack] plugin for [Metalsmith][metalsmith].
+
 ## Installation
 
 ```

@@ -15,3 +15,10 @@ Metalsmith(__dirname)
   .use(webpack('./webpack.config.js'))
   .build()
 ```
+## License
+
+MIT License, see [LICENSE](https://github.com/blakeandrewwood/metalsmith-webpack2/LICENSE.md) for details.
+
+[metalsmith]: http://www.metalsmith.io/
+[webpack]: http://webpack.github.io/
+[webpack configuration]: http://webpack.github.io/docs/configuration.html
